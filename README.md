@@ -22,3 +22,7 @@ I've been learning how to code since 2019, and boy it's been a though way. But I
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/rafaelrezende2004/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+
+![image](https://github.com/user-attachments/assets/7fd282b7-aa31-41c8-b2d6-78c1fafa92b9)
+
